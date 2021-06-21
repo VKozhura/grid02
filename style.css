@@ -123,6 +123,7 @@ a {
  }
 
  .footer-copyright {
+   margin: 0;
    justify-self: end;
    font-size: 16px;
   line-height: 1.5;
